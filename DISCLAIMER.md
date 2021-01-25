@@ -1,4 +1,16 @@
 # Disclaimer
+## Academic purpose
+
+This project is created with the aim of compiling and summarising in easy-to-read
+and easy-to-reference terms the ideas and teachings of Jehovah's Witnesses. When
+these ideas are summarized or quoted, literally or not, it is in reference to the
+ideas published by that organization in their own publications, and not the ideas
+of the owners or collaborators of this project.
+
+When these ideas seem to promote discrimination or violence in different forms, this
+project is not condoning, reinforcing or supporting these ideas, it is merely referencing
+them for academic purposes.
+
 ## Quotations
 
 Quotations in these documents are done in good faith and without the aim
@@ -22,7 +34,7 @@ owners. The collaborators of this project may or may not hold affiliation with t
 owners of the copyright of referenced works, but in no way intend to break that
 copyright.
 
-## Licencing and licencing changes
+## Licensing and licensing changes
 
 The collaborators of this project submit their collaborations under the license of this
 project ([see LICENSE](LICENSE)) and accept that this license may change over time at the sole

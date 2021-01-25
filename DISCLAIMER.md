@@ -23,17 +23,17 @@ copyright.
 
 # Licencing and licencing changes
 
-The collaborators of this project submit their collaborations under the licence of this
-project ([see LICENCE](LICENCE)) and accept that this licence may change over time at the sole
-discretion of the owners and administrators of this project. Any change in licence by
+The collaborators of this project submit their collaborations under the license of this
+project ([see LICENSE](LICENSE)) and accept that this license may change over time at the sole
+discretion of the owners and administrators of this project. Any change in license by
 the owners or administrators of this project will affect the project from that moment
-onwards only. Every previous work to the licence change will continue to be licenced
-under the previous licence.
+onwards only. Every previous work to the license change will continue to be licensed
+under the previous license.
 
 Collaborators are granted the right to hold a copy of this
-project (e.g. fork or clone) under the terms of any applicable licence at the time,
-and continue working on their own versions of this project under that licence. Collaborators
-are also granted the right to change the licence of their own works in any licence they
-see fit, that is compatible with the licence of the work at the moment of their copy.
+project (e.g. fork or clone) under the terms of any applicable license at the time,
+and continue working on their own versions of this project under that license. Collaborators
+are also granted the right to change the license of their own works in any license they
+see fit, that is compatible with the license of the work at the moment of their copy.
 
 Any copy of this project is responsibility of their respective owners and maintainers.

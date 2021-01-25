@@ -24,7 +24,7 @@ copyright.
 # Licencing and licencing changes
 
 The collaborators of this project submit their collaborations under the licence of this
-project ([see LICENCE]) and accept that this licence may change over time at the sole
+project ([see LICENCE](LICENCE)) and accept that this licence may change over time at the sole
 discretion of the owners and administrators of this project. Any change in licence by
 the owners or administrators of this project will affect the project from that moment
 onwards only. Every previous work to the licence change will continue to be licenced

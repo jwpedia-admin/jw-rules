@@ -34,7 +34,7 @@ owners. The collaborators of this project may or may not hold affiliation with t
 owners of the copyright of referenced works, but in no way intend to break that
 copyright.
 
-## Licencing and licencing changes
+## Licensing and licensing changes
 
 The collaborators of this project submit their collaborations under the license of this
 project ([see LICENSE](LICENSE)) and accept that this license may change over time at the sole

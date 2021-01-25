@@ -1,16 +1,17 @@
-# Quotations
+# Disclaimer
+## Quotations
 
 Quotations in these documents are done in good faith and without the aim
 of reproducing or breaking the copyright of the owners of the quoted material.
 
-# References and links
+## References and links
 
 When statements reference or link to an external work they do so in the public
 domain or using referencing name quotations commonly used by Jehovah's Witnesses
 in their own reference publications. These references are here to enable personal
 cross-examination by the reader and are made in good faith.
 
-# Copyright
+## Copyrighted works
 
 This project does not contain external material copyrighted by other entities.
 
@@ -21,7 +22,7 @@ owners. The collaborators of this project may or may not hold affiliation with t
 owners of the copyright of referenced works, but in no way intend to break that
 copyright.
 
-# Licencing and licencing changes
+## Licencing and licencing changes
 
 The collaborators of this project submit their collaborations under the license of this
 project ([see LICENSE](LICENSE)) and accept that this license may change over time at the sole

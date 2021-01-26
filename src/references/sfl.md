@@ -1,7 +1,5 @@
 # Shepherd the Flock of God
 
-<a onclick="history.back()"><< Go Back</a>
-
 The book "Shepherd the Flock of God" (_sfl_) is a book that
 Jehovah's Witnesses give exclusively to appointed overseers
 (or elders) in their congregations, and that is to be kept

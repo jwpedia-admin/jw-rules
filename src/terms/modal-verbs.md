@@ -1,7 +1,5 @@
 # Modal verbs
 
-<a onclick="history.back()"><< Go Back</a>
-
 This project uses clear statements with modal verbs to
 clarify the stance on some daily life areas of Jehovah's
 Witnesses. The verbs used denote different degrees of

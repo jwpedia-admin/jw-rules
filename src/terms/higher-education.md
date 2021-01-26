@@ -1,7 +1,5 @@
 # Higher education
 
-<a onclick="history.back()"><< Go Back</a>
-
 Educational programs that go beyond basic education for
 children and young people, such as university or college
 education which lead to bachelor's degree or postgraduate
